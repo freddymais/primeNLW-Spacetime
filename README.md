@@ -9,15 +9,17 @@
 
 ## 🗝️ Configurações Iniciais
 Pastas server e web rodar:
+<code>
 npm install
 or 
 yarn install
+</code>
 
-Na pasta server (Backend) criar arquivo .env e setar variaveis de ambiente:
+Na pasta server (Backend) criar arquivo .env e setar variaveis de ambiente:</br>
 GITHUB_CLIENT_ID=
 GITHUB_CLIENT_SECRET=
 
-Na pasta web (FrontEnd) criar arquivo .env.local e setar variavel de ambiente:
+Na pasta web (FrontEnd) criar arquivo .env.local e setar variavel de ambiente:</br>
 NEXT_PUBLIC_GITHUB_CLIENT_ID=
 
 ## 💻 Projeto
