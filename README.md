@@ -17,7 +17,7 @@ yarn install
 ```
 ## 🌎 Variáveis de Ambiente
 Na pasta server (Backend) criar arquivo .env e setar variaveis de ambiente:</br>
-`GITHUB_CLIENT_ID=`
+`GITHUB_CLIENT_ID=` <br />
 `GITHUB_CLIENT_SECRET=`
 
 Na pasta web (FrontEnd) criar arquivo .env.local e setar variavel de ambiente:</br>
