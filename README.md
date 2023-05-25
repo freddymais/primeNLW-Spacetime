@@ -46,10 +46,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [@Freddy Alves](https://www.linkedin.com/in/freddy-alves/)
 - [@Primefox Soluções](https://www.instagram.com/primefoxti)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.instagram.com/primefoxti/" target="_blank">
     Primefox Soluções em T.I.
   </a>
-</p>
+</p> -->
 
 <!--END_SECTION:footer-->
