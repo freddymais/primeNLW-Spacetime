@@ -9,8 +9,7 @@
 
 ## 🗝️ Configurações Iniciais
 Pastas server e web rodar:</br>
-<code>
-npm install
+<code>npm install
 or 
 yarn install
 </code>
