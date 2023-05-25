@@ -7,6 +7,19 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=yellow&labelColor=202024" alt="License"></a>
 </p>
 
+## 🗝️ Configurações Iniciais
+Pastas server e web rodar:
+npm install
+or 
+yarn install
+
+Na pasta server (Backend) criar arquivo .env e setar variaveis de ambiente:
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+
+Na pasta web (FrontEnd) criar arquivo .env.local e setar variavel de ambiente:
+NEXT_PUBLIC_GITHUB_CLIENT_ID=
+
 ## 💻 Projeto
 
 Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
