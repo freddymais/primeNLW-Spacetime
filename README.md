@@ -40,11 +40,11 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <!--START_SECTION:footer-->
 
 <br />
-<br />
 
 ## Autores
 
-- [@Freddy Alves](https://www.instagram.com/primefoxti)
+- [@Freddy Alves](https://www.linkedin.com/in/freddy-alves/)
+- [@Primefox Soluções](https://www.instagram.com/primefoxti)
 
 <p align="center">
   <a href="https://www.instagram.com/primefoxti/" target="_blank">
