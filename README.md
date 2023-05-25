@@ -8,18 +8,20 @@
 </p>
 
 ## 🗝️ Configurações Iniciais
-Pastas server e web rodar:</br>
-<code>npm install
+Pastas server e web rodar:
+
+```
+npm install
 or 
 yarn install
-</code>
-
+```
+## 🌎 Variáveis de Ambiente
 Na pasta server (Backend) criar arquivo .env e setar variaveis de ambiente:</br>
-GITHUB_CLIENT_ID=</br>
-GITHUB_CLIENT_SECRET=
+`GITHUB_CLIENT_ID=`
+`GITHUB_CLIENT_SECRET=`
 
 Na pasta web (FrontEnd) criar arquivo .env.local e setar variavel de ambiente:</br>
-NEXT_PUBLIC_GITHUB_CLIENT_ID=
+`NEXT_PUBLIC_GITHUB_CLIENT_ID=`
 
 ## 💻 Projeto
 
@@ -39,6 +41,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <br />
 <br />
+
+## Autores
+
+- [@Freddy Alves](https://www.instagram.com/primefoxti)
 
 <p align="center">
   <a href="https://www.instagram.com/primefoxti/" target="_blank">
