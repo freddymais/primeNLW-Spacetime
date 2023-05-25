@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Rocketseat Education" src="https://primefox.com.br/ti/files/PrimeWall.jpg" width="100px" />
+  <img alt="Primefox Soluções em T.I." src="https://primefox.com.br/ti/files/PrimeWall.jpg" width="100px" />
 </p>
 
 <p align="center">
