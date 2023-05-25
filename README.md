@@ -4,9 +4,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Primefox&message=Dev&color=yellow&style=flat-square" alt="Primefox" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=yellow&labelColor=202024" alt="License"></a>
+  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=yellow&style=flat-square" alt="License"></a>
 </p>
+<br />
 
+<p align="center">
+<img src="https://img.shields.io/badge/Techs-TypeScript-blue" alt="" />
+<img src="https://img.shields.io/badge/-NextJS-lightgrey" alt="" />
+<img src="https://img.shields.io/badge/-NodeJS-31B404" alt="" />
+</p>
+                                                                           
 ## 🗝️ Configurações Iniciais
 Executar nas pastas Server e Web:
 
