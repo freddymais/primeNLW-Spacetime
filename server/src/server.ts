@@ -20,6 +20,9 @@ app.register(require('@fastify/static'), {
 
 app.register(cors, {
   origin: true,
+  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+  // preflightContinue: true,
+  // optionsSuccessStatus: 201,
 })
 
 app.register(jwt, {
@@ -36,5 +39,5 @@ app
     host: '0.0.0.0',
   })
   .then(() => {
-    console.log('🚀 HTTP server running on port http://localhost:3333')
+    console.log('💵 HTTP server running on port http://192.168.0.44:3333 💵')
   })
