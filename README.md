@@ -38,7 +38,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  By Primefox in NLW Spacetime to RocketSeat
+  By Primefox in NLW Spacetime from RocketSeat.
 </p>
 
 <!--START_SECTION:footer-->
