@@ -8,7 +8,7 @@
 </p>
 
 ## 🗝️ Configurações Iniciais
-Pastas server e web rodar:
+Executar nas pastas Server e Web:
 
 ```
 npm install
