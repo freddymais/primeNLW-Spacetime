@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Primefox&message=Dev&color=yellow&style=flat-square" alt="Primefox" />
+  <img src="https://img.shields.io/static/v1?label=Primefox&message=Dev&color=D7DF01&style=flat-square" alt="Primefox" />
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=yellow&style=flat-square" alt="License"></a><br />
   <img src="https://img.shields.io/badge/Techs:-TypeScript-blue" alt="" />
   <img src="https://img.shields.io/badge/-NextJS-lightgrey" alt="" />
-  <img src="https://img.shields.io/badge/-NodeJS-31B404" alt="" />
+  <img src="https://img.shields.io/badge/-NodeJS-088A08" alt="" />
   <img src="https://img.shields.io/badge/-Tailwind-9cf" alt="" />
 </p>
 
