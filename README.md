@@ -8,7 +8,7 @@
 </p>
 
 ## 🗝️ Configurações Iniciais
-Pastas server e web rodar:
+Pastas server e web rodar:</br>
 <code>
 npm install
 or 
